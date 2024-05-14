@@ -1,0 +1,5 @@
+﻿  Gra.cpp
+  Remis.cpp
+C:\Users\Arek Kot\source\repos\kolk_I_krzyzyk\kolk_I_krzyzyk\Remis.cpp(51,37): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  kolk_I_krzyzyk.vcxproj -> C:\Users\Arek Kot\source\repos\kolk_I_krzyzyk\x64\Debug\kolk_I_krzyzyk.exe
